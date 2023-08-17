@@ -3,7 +3,9 @@
 ## Description:
 Welcome to the Laptop Price Prediction repository! Here, you'll find all the resources and code related to a powerful Machine Learning-based laptop price prediction system. This system empowers users to receive estimated laptop prices based on their preferred specifications, enhancing their decision-making process when shopping for laptops.
 
-### Features:
+---
+
+>### Features:
 - **Machine Learning for Accurate Predictions:** Our laptop price prediction system is built on advanced Machine Learning algorithms that analyze historical laptop data to provide accurate price estimates. By identifying patterns and relationships within the data, the system ensures reliable predictions.
 
 - **User-Friendly Streamlit Interface:** We've designed an intuitive user interface using Streamlit, making it easy for users to input their desired laptop specifications. The interface guides users through the process, ensuring an effortless experience.
@@ -12,7 +14,7 @@ Welcome to the Laptop Price Prediction repository! Here, you'll find all the res
 
 - **Deployment on Heroku:** The entire project is seamlessly deployed on Heroku, granting users access to the laptop price prediction system through a live environment. This eliminates the need for installation and ensures hassle-free utilization.
 
-### Contents:
+>### Contents:
 - **notebooks:** Jupyter notebooks detailing the data preprocessing steps, model training process, and evaluation metrics are stored here. These notebooks offer insights into the model development journey.
 
 - **requirements.txt:** A list of dependencies required to run the project is provided here. This streamlines the setup process for collaborators and users.
@@ -23,6 +25,6 @@ Welcome to the Laptop Price Prediction repository! Here, you'll find all the res
 
 The Laptop Price Prediction system bridges the gap between users and informed laptop purchasing decisions. With accurate price estimates based on preferred specifications, users can make choices that align with their budgets and needs. Whether you're a tech enthusiast or a casual shopper, our system is here to enhance your laptop buying journey.
 
-## Output:
+>## Output:
 
 ![HP Output](https://github.com/abhishekdeshmukh001/Laptop-Price-Predictor/assets/87901423/1c23f8de-f355-420e-bac9-4480e92d3923)
